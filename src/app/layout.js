@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Marilly Multi Services – rénovation et petits travaux à Thise et Besançon et les communes environnantes.",
-  description: "Réalisation de petits travaux d'entretien et rénovation de votre maison.",
+  title: "Marilly Multi Services – rénovation et petits travaux à Thise et Besançon.",
+  description: "Artisan tous corps d'état à Thise et Besançon : plomberie, électricité, peinture, sols, plafonds et rénovation intérieure. Demandez votre devis gratuit.",
 };
 
 export default function RootLayout({ children }) {
