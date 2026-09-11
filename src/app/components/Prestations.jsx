@@ -72,7 +72,7 @@ export default function Prestations() {
               </svg>
             </div>
             <h4 className="font-semibold">Peinture intérieure</h4>
-            <p>Murs, plafonds, boiseries, prépoaration des supports...</p>
+            <p>Murs, plafonds, boiseries, préparation des supports...</p>
           </div>
           <div className="flex flex-col gap-2 bg-gray-100 shadow-lg rounded-2xl p-3">
             <div className="bg-[#18293E] w-fit p-2.5 rounded-full text-white">

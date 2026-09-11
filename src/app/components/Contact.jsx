@@ -27,7 +27,7 @@ export default function Contact() {
                       />
                     </svg>
                   </div>
-                  <a href="tel:0606060606">06 06 06 06 06</a>
+                  <a href="tel:0602179638">06 02 17 96 38</a>
                 </div>
                 <div className="flex gap-3 items-center">
                   <div className="">

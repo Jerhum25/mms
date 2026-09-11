@@ -22,7 +22,7 @@ export default function APropos() {
           </h3>
           <p>
             Fort de plusieurs années d'expérience, je mets mon savoir-faire à
-            votre dispositions pour tous vos travaux, du plus petit dépannage à
+            votre disposition pour tous vos travaux, du plus petit dépannage à
             la rénovation complète. Mon objectif : vous apporter des solutions
             durables et un résultat à la hauteur de vos attentes.
           </p>
