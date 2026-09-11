@@ -5,7 +5,7 @@ export default function APropos() {
   return (
     <div className="w-full h-auto flex justify-center" id="apropos">
       <div className="xl:w-[70%] w-full  bg-gray-100 flex sm:flex-row flex-col  text-black ">
-        <div className="sm:w-[30%] w-full sm:h-auto relative">
+        <div className="sm:w-[30%] w-full h-64 sm:h-auto relative">
           <Image
           fill
             unoptimized

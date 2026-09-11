@@ -69,7 +69,7 @@ export default function Contact() {
             <hr className="md:hidden"/>
               <p className="text-lg font-bold">Suivez-nous sur les réseaux</p>
               <div className="flex gap-5 md:justify-center">
-                <a href="https://www.instagram.com/marillymultiservices/">
+                <a href="https://www.instagram.com/marillymultiservices/" target="_blank">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="2em"
@@ -82,7 +82,7 @@ export default function Contact() {
                     />
                   </svg>
                 </a>
-                <a href="https://www.facebook.com/profile.php?id=61566444369999">
+                <a href="https://www.facebook.com/profile.php?id=61566444369999" target="_blank">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="2em"
@@ -106,7 +106,7 @@ export default function Contact() {
                     </g>
                   </svg>
                 </a>
-                <a href="https://www.linkedin.com/in/jean-baptiste-marilly-0a3378164/">
+                <a href="https://www.linkedin.com/in/jean-baptiste-marilly-0a3378164/" target="_blank">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="2em"
