@@ -55,7 +55,7 @@ export default function Contact() {
                       height="1.5em"
                       viewBox="0 0 24 24"
                     >
-                      <g fill="none" stroke="currentColor" stroke-width="1.5">
+                      <g fill="none" stroke="currentColor" strokeWidth="1.5">
                         <path d="M4 10.143C4 5.646 7.582 2 12 2s8 3.646 8 8.143c0 4.462-2.553 9.67-6.537 11.531a3.45 3.45 0 0 1-2.926 0C6.553 19.812 4 14.606 4 10.144Z" />
                         <circle cx="12" cy="10" r="3" />
                       </g>
@@ -116,9 +116,9 @@ export default function Contact() {
                     <g
                       fill="none"
                       stroke="currentColor"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="2"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth="2"
                     >
                       <path d="M8 11v5m0-8v.01M12 16v-5m4 5v-3a2 2 0 1 0-4 0" />
                       <path d="M3 7a4 4 0 0 1 4-4h10a4 4 0 0 1 4 4v10a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4z" />

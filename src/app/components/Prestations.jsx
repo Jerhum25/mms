@@ -45,9 +45,9 @@ export default function Prestations() {
                 <path
                   fill="none"
                   stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="1.5"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="1.5"
                   d="M9.217 2.75h7.246a.525.525 0 0 1 .483.735l-2.835 6.617h4.779a.21.21 0 0 1 .157.347L9.301 21.16a.2.2 0 0 1-.358-.168l.967-7.74H5.436a.526.526 0 0 1-.494-.725l3.78-9.452a.525.525 0 0 1 .495-.326"
                 />
               </svg>
@@ -104,8 +104,8 @@ export default function Prestations() {
                 <path
                   fill="none"
                   stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                   d="M13.5 6.94a1 1 0 0 0-.32-.74L7 .5L.82 6.2a1 1 0 0 0-.32.74v5.56a1 1 0 0 0 1 1h11a1 1 0 0 0 1-1ZM7 8V.5M.5 8h13m-13 2.75H4m6 0h3.5M4 13.5V3.27m6 10.23V3.27"
                 />
               </svg>
@@ -124,9 +124,9 @@ export default function Prestations() {
                 <path
                   fill="none"
                   stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="1.5"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="1.5"
                   d="M19.252 14.407a6.82 6.82 0 0 1-6.532 1.776a2.02 2.02 0 0 0-1.95.487l-4.28 4.294a.974.974 0 0 1-1.385 0l-2.067-2.069a.976.976 0 0 1 0-1.385l4.28-4.284a1.95 1.95 0 0 0 .488-1.951a6.84 6.84 0 0 1 1.912-6.65a6.82 6.82 0 0 1 6.736-1.566l-2.925 2.927c-.75.752-1.112 2.342-.341 3.103l1.715 1.727c.76.761 2.35.41 3.11-.351l2.925-2.927a6.84 6.84 0 0 1-1.686 6.869"
                 />
               </svg>

@@ -26,7 +26,7 @@ export default function APropos() {
             la rénovation complète. Mon objectif : vous apporter des solutions
             durables et un résultat à la hauteur de vos attentes.
           </p>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-5  w-full p-5">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-5  w-full py-5">
             <div className="flex gap-2 items-center ">
               <div className="bg-white w-fit p-2.5 rounded-full text-white">
                 <svg

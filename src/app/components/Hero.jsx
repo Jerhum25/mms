@@ -17,7 +17,7 @@ export default function Hero() {
       <div className="xl:w-[70%] w-full h-screen relative z-100">
         <div className="lg:w-1/2 w-full h-full flex flex-col justify-center gap-10 px-5  ">
           <h1 className="uppercase -mb-8">artisan tous corps d'état</h1>
-          <h2 className="text-5xl font-bold">Des travaux de qualité pour un intérieur qui vous ressemble</h2>
+          <h2 className="text-3xl md:text-5xl font-bold">Des travaux de qualité pour un intérieur qui vous ressemble</h2>
           <p>
             Plomberie, électricité, peinture, sols, plafonds... une seule
             entreprise pour tous vos petits travaux et vos projets de
@@ -65,9 +65,9 @@ export default function Hero() {
                   <path
                     fill="none"
                     stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
                     d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0-18 0m9 0l-2 3m2-8v5"
                   />
                 </svg>
@@ -80,7 +80,7 @@ export default function Hero() {
                   height="2em"
                   viewBox="0 0 24 24"
                 >
-                  <g fill="none" stroke="currentColor" stroke-width="1.5">
+                  <g fill="none" stroke="currentColor" strokeWidth="1.5">
                     <path d="M4 10.143C4 5.646 7.582 2 12 2s8 3.646 8 8.143c0 4.462-2.553 9.67-6.537 11.531a3.45 3.45 0 0 1-2.926 0C6.553 19.812 4 14.606 4 10.144Z" />
                     <circle cx="12" cy="10" r="3" />
                   </g>
